@@ -26,10 +26,12 @@ def xml_to_csv(path):
 
 
 def main():
-    image_path = os.path.join(os.getcwd(), 'annotations')
-    xml_df = xml_to_csv(image_path)
-    xml_df.to_csv('raccoon_labels.csv', index=None)
-    print('Successfully converted xml to csv.')
+    for folder in ['train','test']:
+        image_path = os.path.join(os.getcwd(), ('images/'+folder))
+        print image_path
+        xml_df = xml_to_csv(image_path)
+        xml_df.to_csv('/home/jlew/git/raccoon_dataset/'+folder+'_labels.csv', index=None)
+        print('Successfully converted xml to csv.')
 
 
 main()
