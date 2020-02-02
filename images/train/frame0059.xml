@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>modex2</folder>
 	<filename>frame0059.jpg</filename>
-	<path>/home/jlew/git/raccoon_dataset/images/train/frame0059.jpg</path>
+	<path>/home/jlew/Pictures/modex2/frame0059.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>525</xmin>
-			<ymin>266</ymin>
-			<xmax>772</xmax>
-			<ymax>469</ymax>
+			<xmin>40</xmin>
+			<ymin>268</ymin>
+			<xmax>283</xmax>
+			<ymax>514</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>522</xmin>
-			<ymin>435</ymin>
-			<xmax>754</xmax>
-			<ymax>657</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>box</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>829</xmin>
-			<ymin>1</ymin>
-			<xmax>1061</xmax>
-			<ymax>140</ymax>
+			<xmin>247</xmin>
+			<ymin>289</ymin>
+			<xmax>491</xmax>
+			<ymax>523</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>606</xmin>
-			<ymin>3</ymin>
-			<xmax>853</xmax>
-			<ymax>138</ymax>
+			<xmin>665</xmin>
+			<ymin>284</ymin>
+			<xmax>927</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>79</ymin>
+			<xmax>1133</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>284</ymin>
+			<xmax>1122</xmax>
+			<ymax>515</ymax>
 		</bndbox>
 	</object>
 </annotation>

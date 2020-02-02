@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>modex2</folder>
 	<filename>frame0057.jpg</filename>
-	<path>/home/jlew/git/raccoon_dataset/images/train/frame0057.jpg</path>
+	<path>/home/jlew/Pictures/modex2/frame0057.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>775</xmin>
-			<ymin>273</ymin>
-			<xmax>1038</xmax>
-			<ymax>497</ymax>
+			<xmin>616</xmin>
+			<ymin>81</ymin>
+			<xmax>859</xmax>
+			<ymax>316</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>789</xmin>
-			<ymin>462</ymin>
-			<xmax>1036</xmax>
-			<ymax>688</ymax>
+			<xmin>865</xmin>
+			<ymin>248</ymin>
+			<xmax>1133</xmax>
+			<ymax>520</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>491</xmin>
-			<ymin>2</ymin>
-			<xmax>734</xmax>
-			<ymax>163</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>box</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>864</xmin>
-			<ymin>1</ymin>
-			<xmax>1120</xmax>
-			<ymax>164</ymax>
+			<xmin>386</xmin>
+			<ymin>298</ymin>
+			<xmax>633</xmax>
+			<ymax>529</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,22 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>284</xmin>
-			<ymin>6</ymin>
-			<xmax>550</xmax>
-			<ymax>178</ymax>
+			<xmin>601</xmin>
+			<ymin>288</ymin>
+			<xmax>847</xmax>
+			<ymax>521</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>box</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1094</xmin>
-			<ymin>5</ymin>
-			<xmax>1280</xmax>
-			<ymax>158</ymax>
+			<xmin>2</xmin>
+			<ymin>288</ymin>
+			<xmax>217</xmax>
+			<ymax>517</ymax>
 		</bndbox>
 	</object>
 </annotation>

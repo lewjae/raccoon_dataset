@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>modex2</folder>
 	<filename>frame0056.jpg</filename>
-	<path>/home/jlew/git/raccoon_dataset/images/train/frame0056.jpg</path>
+	<path>/home/jlew/Pictures/modex2/frame0056.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>281</xmin>
-			<ymin>120</ymin>
-			<xmax>553</xmax>
-			<ymax>348</ymax>
+			<xmin>497</xmin>
+			<ymin>72</ymin>
+			<xmax>747</xmax>
+			<ymax>314</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>490</xmin>
-			<ymin>129</ymin>
-			<xmax>755</xmax>
-			<ymax>355</ymax>
+			<xmin>754</xmin>
+			<ymin>242</ymin>
+			<xmax>1039</xmax>
+			<ymax>536</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>797</xmin>
-			<ymin>459</ymin>
-			<xmax>1076</xmax>
-			<ymax>697</ymax>
+			<xmin>480</xmin>
+			<ymin>279</ymin>
+			<xmax>724</xmax>
+			<ymax>523</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,46 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>882</xmin>
-			<ymin>120</ymin>
-			<xmax>1167</xmax>
-			<ymax>343</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>box</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>878</xmin>
-			<ymin>5</ymin>
-			<xmax>1171</xmax>
-			<ymax>164</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>box</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1126</xmin>
-			<ymin>129</ymin>
-			<xmax>1280</xmax>
-			<ymax>345</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>box</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>118</ymin>
-			<xmax>200</xmax>
-			<ymax>214</ymax>
+			<xmin>280</xmin>
+			<ymin>286</ymin>
+			<xmax>527</xmax>
+			<ymax>532</ymax>
 		</bndbox>
 	</object>
 </annotation>
